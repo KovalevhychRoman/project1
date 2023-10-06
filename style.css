@@ -1,0 +1,49 @@
+h1 {    
+    color: #0cf20c;
+    font-size: 60px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: aqua;
+}
+body {
+    background-color: rgba(255, 127, 0, 0.878);
+}
+img {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    border: 5px solid 
+    rgb(12, 192, 12);
+    vertical-align: middle;
+    max-width: 100%;
+}
+.cat2 {
+    border: 5px solid  blue;
+    border-radius: 20px;
+}
+.cat4 {
+    border-bottom: 5px solid aquamarine;
+}
+a {
+    font-style: italic;
+    text-decoration: none;
+
+}
+.line {
+    border-bottom: 2px solid green;
+    padding-bottom:20px ;
+}
+ul {
+    color: #0cf20c;
+}
+ol {
+    color: aquamarine;
+}
+.apple {
+    text-decoration: underline;
+}
+span {
+    color: red;
+}
